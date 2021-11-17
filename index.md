@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Tuahna/tuahna.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Tuahna Sari Nasution 
+kamiSa
+Anda dapat menggunakan [editor di GitHub] (https://github.com/Tuahna/tuahna.github.io/edit/main/index.md) untuk memelihara dan melihat pratinjau konten situs web Anda dalam file Penurunan hargari.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
